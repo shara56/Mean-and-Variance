@@ -42,7 +42,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ```
 Developed by: Sharangini T K
 Register no: 212222230143
-```
 ```python
 import numpy as np
 L=[int(i) for i in input().split()]
